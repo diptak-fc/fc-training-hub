@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Amazon PPC Fundamentals",
+    "category": "PPC Strategy",
+    "description": "Core concepts of Sponsored Products, Sponsored Brands, and Sponsored Display campaigns.",
+    "loomUrl": "https://www.loom.com/share/REPLACE_WITH_YOUR_LINK",
+    "duration": "18 min",
+    "date": "2026-04-01"
+  },
+  {
+    "id": 2,
+    "title": "Weekly Business Report (WBR) Walkthrough",
+    "category": "Reporting",
+    "description": "How to read and present the FC-WBR deck to clients including KPI benchmarks and narrative flow.",
+    "loomUrl": "https://www.loom.com/share/REPLACE_WITH_YOUR_LINK",
+    "duration": "22 min",
+    "date": "2026-04-05"
+  },
+  {
+    "id": 3,
+    "title": "Bid Strategy & Match Type Pyramid",
+    "category": "PPC Strategy",
+    "description": "Understanding exact, phrase, and broad match types and how to structure campaign hierarchies.",
+    "loomUrl": "https://www.loom.com/share/REPLACE_WITH_YOUR_LINK",
+    "duration": "25 min",
+    "date": "2026-04-10"
+  },
+  {
+    "id": 4,
+    "title": "Amazon Listing Copywriting Framework",
+    "category": "Listing Optimization",
+    "description": "Semantic SEO, avatar-based targeting, and the structured answer flow for bullet points and descriptions.",
+    "loomUrl": "https://www.loom.com/share/REPLACE_WITH_YOUR_LINK",
+    "duration": "30 min",
+    "date": "2026-04-15"
+  },
+  {
+    "id": 5,
+    "title": "Using AI Prompts for PPC Audits",
+    "category": "AI Tools",
+    "description": "Step-by-step guide to running account audits using the agency AI prompt playbook.",
+    "loomUrl": "https://www.loom.com/share/REPLACE_WITH_YOUR_LINK",
+    "duration": "20 min",
+    "date": "2026-04-20"
+  }
+]
